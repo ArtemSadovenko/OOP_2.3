@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\visual studio projects\OOP_2.3\Source.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  OOP_2.3.vcxproj -> D:\visual studio projects\OOP_2.3\Debug\OOP_2.3.exe
